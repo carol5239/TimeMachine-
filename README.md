@@ -1,4 +1,5 @@
 # TimeMachine-
+Authors: Rue Aubrey Taylor, Lindsey Oliva, Camila Garcia, & Caroline Keller
 
 Abstract:
 
